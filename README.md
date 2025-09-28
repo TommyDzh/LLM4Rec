@@ -26,8 +26,7 @@ The following table summarizes the datasets used in our experiments:
 | Movie   | 22097   | 2629    | 2629   | 2629   | 10874  |
 
 
-We provide the raw JSONL data for **Book** and **Movie** datasets in `./data/`.
-
+We provide the raw JSONL for the **Movies** dataset in `./data/`. The **Books** dataset is available at [this repository](https://github.com/jieyong99/EXP3RT/tree/main/data/amazon-book/rating_bias).
 
 
 ## 🚀 Quickstart
